@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ighandre.github.io/sitemap.ighandre.gz
+Sitemap: https://ighandre.github.io/app/sitemap.ighandre.gz
+Sitemap: https://ighandre.github.io/assets/sitemap.ighandre.gz
+Sitemap: https://ighandre.github.io/css/sitemap.ighandre.gz
+Sitemap: https://ighandre.github.io/data/sitemap.ighandre.gz
+Sitemap: https://ighandre.github.io/includes/sitemap.ighandre.gz
+Sitemap: https://ighandre.github.io/item/sitemap.ighandre.gz
+Sitemap: https://ighandre.github.io/src/sitemap.ighandre.gz
